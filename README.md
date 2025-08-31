@@ -1,7 +1,6 @@
-## hola soy Matias R
---
+## hola soy Matia R
 
-¡#! Soy un estudiante de secundaria que ama la tecnología y el deporte. Me gusta aprender cosas nuevas, programar y también juego tochito bandera y fútbol americano. Este es uno de mis primeros proyectos y estoy muy emocionado de compartirlo.
+##### Soy un estudiante de secundaria que ama la tecnología y el deporte. Me gusta aprender cosas nuevas, programar y también juego tochito bandera y fútbol americano. Este es uno de mis primeros proyectos y estoy muy emocionado de compartirlo.
 
 ## 📌 ¿Qué hay en este repositorio?
 
